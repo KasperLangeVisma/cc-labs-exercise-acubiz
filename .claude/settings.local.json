@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs wc:*)",
+      "mcp__playwright__browser_click"
+    ]
+  }
+}
